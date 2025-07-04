@@ -1,5 +1,4 @@
 # Multimodal-fusion
-The data is developed in  Deep multimodal fusion techniques for transient-based leakage detection in water pipelines, which is published in Process Safety and Environmental Protection 
 
 This repository accompanies the paper "Deep multimodal fusion techniques for transient-based leakage detection in water pipelines."  It releases 4200 numerically simulated operating scenarios and their corresponding pressure-head signals, allowing researchers to reproduce published results, benchmark new algorithms.
 All simulations were generated based on Method of Characteristics, and the synthetic pressure responses show excellent agreement with the experimental data reported by Guo Xinlin et al.
