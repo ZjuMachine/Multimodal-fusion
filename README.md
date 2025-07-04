@@ -1,6 +1,8 @@
 # Multimodal-fusion
 The data is developed in  Deep multimodal fusion techniques for transient-based leakage detection in water pipelines, which is published in Process Safety and Environmental Protection 
 
+![Uploading image.png…]()
+
 The dataset url:
 
 1. https://pan.baidu.com/s/1UjXqv5nDcD1Cuk5EiJrEEQ?pwd=u3jb   (password:  u3jb)
